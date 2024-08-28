@@ -121,7 +121,7 @@ header .ikony a{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url("zdjęcia/niket.jpg");
+    background-image: url("zdjęcia/niket.webp");
     background-size: cover;
     background-position: center;
 }
